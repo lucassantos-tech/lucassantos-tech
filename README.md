@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a Developer from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a Developer, from Brazil.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassantos-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.gifer.com/5xuU.gif"  />
 
 ###
 
@@ -13,11 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
 ###
@@ -36,6 +44,8 @@
 
 ###
 
-<img align="left" height="200" src="https://i.gifer.com/YOD.gif"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lucassantos-tech/lucassantos-tech/output/snake.svg" alt="Snake animation" />
 
 ###
