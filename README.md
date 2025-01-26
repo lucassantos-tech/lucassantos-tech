@@ -39,11 +39,3 @@
 <img align="left" height="200" src="https://i.gifer.com/YOD.gif"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qmv08dh167dz88u6vzh6ymom0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qmv08dh167dz88u6vzh6ymom0&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
